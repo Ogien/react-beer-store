@@ -1,0 +1,24 @@
+{
+  "name": "beer-store",
+  "authors": [
+    "Anton Siedlecki <antonsiedlecki@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "skeleton": "~2.0.4",
+    "animate.css": "https://github.com/daneden/animate.css.git#~3.5.0",
+    "animatedmodal": "https://github.com/joaopereirawd/animatedModal.js.git",
+    "jquery": "~2.1.4"
+  }
+}
