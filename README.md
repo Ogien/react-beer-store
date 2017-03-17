@@ -1,6 +1,6 @@
 # react-beer-store
 A fun example using React with Firebase.
 
-## To Run
-1) `npm i && bower i`
-2) `npm run`
+## To Run for the first time
+1) `npm i && bower i && npm start`
+2) Afterwards you can just run `npm start`
